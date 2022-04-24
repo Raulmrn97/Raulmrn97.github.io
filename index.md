@@ -1,4 +1,4 @@
-## ![icono](https://user-images.githubusercontent.com/103737993/164981647-1cd097f2-7cb6-4309-96be-1153e29f9ce5.png) 🎮LUSERS GAMING👾
+## 🎮LUSERS GAMING👾
 
 Proyecto de Comunidad de usuarios relacionados con los videojuegos e Internet.
 
