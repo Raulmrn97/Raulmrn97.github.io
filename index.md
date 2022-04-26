@@ -126,7 +126,7 @@ La idea sería ir perfeccionando la web de manera que mediante herramientas de a
 
 * Redes Sociales
 
-Se hará uso de redes como Twitter, Twitch y Youtube principalmente. De forma auxiliar se utilizará Instagram, TikTok, Discord y Reddit para mayor contenido y engagement con los usuarios.
+Se hará uso de redes como Twitter, Twitch y Youtube principalmente. De forma auxiliar se utilizará Instagram y Reddit para mayor contenido y engagement con los usuarios. Se creará un servidor de Discord y una cuenta de TikTok para generar mayor contenido y conectividad entre los usuarios.
 
 ![banner](https://user-images.githubusercontent.com/103737993/165264089-c015c5df-ccfa-4bf8-a477-3ccca52af16e.jpeg)
 
