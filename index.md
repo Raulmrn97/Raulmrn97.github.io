@@ -2,9 +2,9 @@
 
 Proyecto de Comunidad de usuarios relacionados con los videojuegos e Internet.
 
-Máster en Gestión y Tecnologías de Procesos de Negocio.
+**Máster** en Gestión y Tecnologías de Procesos de Negocio.
 
-Inteligencia colectiva y la formación en las empresas.
+**Asignatura** Inteligencia colectiva y la formación en las empresas.
 
 ----
 
