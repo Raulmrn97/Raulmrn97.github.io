@@ -166,6 +166,8 @@ Cualquier usuario con afán hacia los videojuegos y el mundo de Internet y los m
 
 ### Colabora con nosotros
 
+![lusers](https://user-images.githubusercontent.com/103737993/166954144-599e67c9-ba35-42e2-a0cd-676f50fdb4db.jpg)
+
 El principal objetivo a la hora de comenzar nuestro proyecto es definir nuestra campaña de presencia online. Como hemos ido especificando, nuestro objetivo es onstruir una comunidad fuerte a través de los canales de comunicación, creando perfiles en redes sociales (Facebook, Instagram, TikTok, etc). Para ello, programaremos las publicaciones previstas en nuestro plan de comunicación utilizando Monday.Com, herramienta la cual nos ayudará a planificar la difusión con antelación. De esta forma, podremos crear vínculos y aumentar el engagement con los usuarios, ya sea de manera directa o indirecta. A continuación, detallamos el marco de nuestra campaña:
 
 * Objetivo financiero
